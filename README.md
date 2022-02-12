@@ -12,7 +12,7 @@
 - ❓ Ask me about anything related to Big Data and Machine Learning  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use spaces over tabs
   
 
 <br/>  
