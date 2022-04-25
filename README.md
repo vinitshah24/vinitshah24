@@ -1,16 +1,25 @@
 <h1 align="center">
-  <b>Vinit Shah</b>
+Hi, I'm Vinit Shah!
 </h1>
-<br>
+<br/>
 
-Hello! I'm Vinit Shah, Software Engineer from Charlotte, NC.
+<img align="left" src="https://images.unsplash.com/photo-1522252234503-e356532cafd5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZGV2ZWxvcGVyfGVufDB8fDB8fA%3D%3D&w=1000&q=80" width="320" />
+
+## About Me
+💻 I am a self taught Big Data Developer
 <br>
+🌟 Main languages: Python, Java
+<br>
+📝 I have a strong interest in Data Science and Artificial Intelligence
+<br>
+🚩 Interested in Full Stack Application development, Big Data, and Machine Learning
 <br>
 🌱 I’m currently learning Red Hat OpenShift and Azure
 <br>
 ❓ Ask me about anything related to Big Data and Machine Learning
 <br>
 ⚡ Fun fact: I use spaces over tabs
+
 
 ## My Statistics
 
