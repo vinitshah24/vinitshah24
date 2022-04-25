@@ -3,7 +3,7 @@
 </h1>
 <br>
 
-Hello! I'm Vinit Shah, Software Enginner from Charlotte, NC.
+Hello! I'm Vinit Shah, Software Engineer from Charlotte, NC.
 <br>
 <br>
 🌱 I’m currently learning Red Hat OpenShift and Azure
